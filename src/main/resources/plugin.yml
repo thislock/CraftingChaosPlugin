@@ -1,0 +1,4 @@
+name: CraftingChaos
+version: '1.0-SNAPSHOT'
+main: org.survival.glorpus.craftingChaos.CraftingChaos
+api-version: '1.21'
